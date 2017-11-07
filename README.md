@@ -1,7 +1,5 @@
 # Identicon
 
-**TODO: Add description**
-
 Identicon is a Elixir application to generate random png icons like Github.
 Given a string, Identico generate a unique png avatar.
 
